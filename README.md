@@ -13,7 +13,7 @@ To nie jest zwykłe zestawienie tabelaryczne. Projekt wykorzystuje **podejście 
 ## 📈 Kluczowe wnioski z analizy (2012–2024)
 Na podstawie przetworzonych danych w Excelu sformułowaliśmy następujące wnioski:
 
-* **PKN Orlen (Skala i Fuzje):** Analiza strukturalna wykazuje gigantyczny skok wartości aktywów w 2022 roku (ponad 300% wzrostu w ujęciu łańcuchowym), co bezpośrednio odzwierciedla procesy konsolidacyjne w polskim sektorze energetycznym. Spółka wykazuje wysoką odporność na ryzyko w długim terminie dzięki ogromnej bazie kapitałowej. Na zdjęciu struktura aktywów PKN Orlen w badanym okresie.
+* **PKN Orlen (Skala i Fuzje):** Analiza strukturalna wykazuje gwałtowny wzrost wartości aktywów w 2022 roku (ponad 300% wzrostu w ujęciu łańcuchowym), co bezpośrednio odzwierciedla procesy konsolidacyjne w polskim sektorze energetycznym. Spółka wykazuje wysoką odporność na ryzyko w długim terminie dzięki ogromnej bazie kapitałowej. Na zdjęciu struktura aktywów PKN Orlen w badanym okresie.
 <img width="601" height="311" alt="Zrzut ekranu 2026-03-04 163914" src="https://github.com/user-attachments/assets/9967dbc8-97b1-49a8-81dc-bffd5e81d13f" />
 
 * **Unimot (Dynamika i Adaptacja):** Spółka mniejsza, ale o znacznie wyższej dynamice wzrostu aktywów obrotowych. Model decyzyjny wskazuje na okresowe wzrosty ryzyka płynności w latach kryzysowych, które były jednak skutecznie mitygowane przez agresywne zarządzanie kapitałem pracującym. Na zdjęciu struktura aktywów Unimot w badanym okresie.
